@@ -1,6 +1,4 @@
 /*
- * Programmer: Andres Carranza
- * Date: 4/7/2019
  * This class will act as the "verifier"
  * It asks a prover to prove that it has a special key
  */
